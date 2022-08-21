@@ -17,7 +17,7 @@ global.APIKeys = {
 }
 
 //Owner React
-global.OWNER_REACT = '😈' //මෙතනට emoji එකක දාන්න.
+global.OWNER_REACT = '' //මෙතනට emoji එකක දාන්න.
 global.REACT_NUMBER = '94763867158' //මෙතන number එක.
 
 // Other
@@ -28,9 +28,9 @@ global.ownername = '❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱ MD' //මෙතන 
 global.ownername = '❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱' //මෙතන නම.
 global.group1 = 'https://chat.https://chat.whatsapp.com/H047x1gxkO9F6z3UhoiMef ' //මෙතන grouplink එක.
 global.group2 = 'https://https://chat.whatsapp.com/H047x1gxkO9F6z3UhoiMef' //මෙතන grouplink එක.
-global.packname = 'VIHANGA BOT INC' //මෙතන නම.
+global.packname = '❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱' //මෙතන නම.
 global.cap = '*By ❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱*' //මෙතන නම.
-global.img = 'https://i.ibb.co/BBB6Rxn/Vihanga-MD.png' //මෙතන බොට්ගෙ photo එකට ඕන derect link එකක්.
+global.img = 'https://i.ibb.co/VTxVmF6/20220821-153441.jpg' //මෙතන බොට්ගෙ photo එකට ඕන derect link එකක්.
 global.ytchannel = 'https://youtube.com/channel/UCxqpAzaAecDfYOPywxUJoyw' //මෙතන කැමති ලින්ක් එකක්.
 global.monayawal = '100000' //මෙතන මාරු කරන්න එපා.
 global.darahawal = '100' //මෙතන මාරු කරන්න එපා.
@@ -55,7 +55,7 @@ global.f6 = 'application/vnd.android.package-archive' //මෙතන මාර�
 global.author = '❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱' //මෙතන නම.
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text=' //මෙතන මාරු කරන්න එපා.
 global.sessionName = 'session' //මෙතන මාරු කරන්න එපා.
-global.prefa = ['','!','.','🐦','🐤','🗿'] //මෙතන මාරු කරන්න එපා.
+global.prefa = ['.','!','.','🐦','🐤','🗿'] //මෙතන මාරු කරන්න එපා.
 global.sp = '⭔' //මෙතන emoji එකක්.
 global.mess = {
     success: '*හරි*',
